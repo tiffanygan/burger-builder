@@ -1,0 +1,23 @@
+.cheese {
+  border: rgb(235, 220, 15) solid 5px;
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.meat {
+  border: rgb(148, 97, 1) solid 5px;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.salad {
+  border: rgb(0, 155, 47) solid 5px;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.bread {
+  border: rgb(211, 162, 0) solid 7px;
+  border-radius: 3px;
+  padding: 3px;
+}
